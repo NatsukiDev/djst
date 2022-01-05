@@ -1,0 +1,7 @@
+node_modules/
+test.js
+.idea/
+
+# UNCOMMENT THIS LINE BELOW BEFORE COMMITTING TO GITHUB
+# YOU WILL LEAK YOUR TOKEN IF YOU LEAVE IT COMMENTED.
+# /resources/json/auth.json

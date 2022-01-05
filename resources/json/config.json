@@ -1,0 +1,19 @@
+{
+    "color": {
+        "embeds": {
+            "default": "",
+            "error": ""
+        },
+        "logs": {
+            "useColor": true,
+            "success": "",
+            "data": "",
+            "grey": "",
+            "name": "",
+            "warn": "",
+            "error": "",
+            "notice": "",
+            "useFallbacks": true
+        }
+    }
+}
